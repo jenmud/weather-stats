@@ -38,6 +38,7 @@ auto_version_setup(
     package_data={
         "weather_stats": [
             "VERSION",
+            "settings.cfg",
         ],
     },
     install_requires=[
